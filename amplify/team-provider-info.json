@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-businessmatching4-dev-130917-authRole",
+      "UnauthRoleArn": "arn:aws:iam::160286687470:role/amplify-businessmatching4-dev-130917-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::160286687470:role/amplify-businessmatching4-dev-130917-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-businessmatching4-dev-130917-deployment",
+      "UnauthRoleName": "amplify-businessmatching4-dev-130917-unauthRole",
+      "StackName": "amplify-businessmatching4-dev-130917",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:160286687470:stack/amplify-businessmatching4-dev-130917/ff164940-4233-11ee-9d0b-0672535c7cbb",
+      "AmplifyAppId": "d1c3j8h1p4b11m"
+    },
+    "categories": {
+      "api": {
+        "businessmatching4": {}
+      },
+      "auth": {
+        "businessmatching4604409de": {}
+      },
+      "storage": {
+        "s3businessmatching4storagef310911c": {}
+      }
+    }
+  }
+}

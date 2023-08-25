@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3businessmatching4storagef310911c",
+  "bucketName": "businessmatching4-storage-f310911c",
+  "policyUUID": "d35aadf5",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

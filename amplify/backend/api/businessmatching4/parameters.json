@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "businessmatching4",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-08-24T04:26:22.186Z"
+}

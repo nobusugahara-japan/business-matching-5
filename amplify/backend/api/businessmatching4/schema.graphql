@@ -1,0 +1,12 @@
+type Profile @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  school: String
+  company: String
+  expertize: String
+  introduction: String
+  offers: String
+  needs: String
+  description: String
+  photoName: String
+} 
